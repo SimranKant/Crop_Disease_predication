@@ -1,0 +1,6 @@
+path: data/diseases  # base path to your dataset
+train: images/train
+val: images/val
+
+names:
+  0: disease

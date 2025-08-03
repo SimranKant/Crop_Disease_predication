@@ -1,0 +1,19 @@
+# Deep Learning & Tabular Models
+torch>=2.0.0
+torchvision
+pytorch-tabnet
+
+# Object Detection
+ultralytics>=8.0.0
+
+# Data Handling
+numpy
+pandas
+scikit-learn
+
+# Image Processing
+opencv-python
+
+# Optional (for plotting or saving results)
+matplotlib
+seaborn
